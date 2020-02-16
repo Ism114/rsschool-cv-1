@@ -10,6 +10,7 @@
 3. Scills:
 * HTML, CSS, Javascript, Git
 * Pascal
+* Python
 
 4. Experience:
 I worked in a web Studio for about 1 year. Developed websites using HTML, CSS, and PHP technologies using MODx CMS. 

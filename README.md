@@ -1,2 +1,2 @@
 # rsschool-cv
-My CV
+https://Ism114.github.io/rsschool-cv/cv
